@@ -1,0 +1,10 @@
+Aspect;Result
+Dataset analysed;92,467
+IF anomalies;4,638 (5.02%)
+LOF anomalies;4,617 (4.99%)
+Agreement (both);348
+Jaccard similarity;0.0393
+IF-only;4,250
+LOF-only;4,262
+Spearman rank correlation (IF vs LOF);0.2252
+Business-rule overlap;see Section 9

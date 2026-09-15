@@ -1,0 +1,5 @@
+{
+  "n_neighbors": 30,
+  "contamination": 0.05,
+  "n_jobs": -1
+}

@@ -1,0 +1,93 @@
+{
+  "software_versions": {
+    "python": "3.14.2",
+    "pandas": "3.0.5",
+    "numpy": "2.5.2",
+    "scikit_learn": "1.9.0"
+  },
+  "dataset": {
+    "file_name": "dataset_anomaly_detection_ready.csv",
+    "n_rows": 92211,
+    "n_features": 55,
+    "extraction_id": null
+  },
+  "random_state": 42,
+  "n_observations": 92211,
+  "n_features": 55,
+  "feature_columns": [
+    "log_price",
+    "log_sqm",
+    "num_rooms",
+    "num_bathrooms",
+    "price_per_sqm",
+    "sqm_per_room",
+    "rooms_per_sqm",
+    "baths_per_room",
+    "discount_pct",
+    "price_relative_to_type",
+    "price_relative_to_province",
+    "has_stars",
+    "pool_flag",
+    "beach_flag",
+    "breakfast",
+    "cancellation",
+    "property_type_Agroturismo",
+    "property_type_Albergue",
+    "property_type_Apartahotel",
+    "property_type_Apartamento",
+    "property_type_Barco",
+    "property_type_Bed and breakfast",
+    "property_type_Camping",
+    "property_type_Camping resort",
+    "property_type_Casa o chalet",
+    "property_type_Casa rural",
+    "property_type_Chalet de montaña",
+    "property_type_Habitación en casa particular",
+    "property_type_Hostal o pensión",
+    "property_type_Hotel",
+    "property_type_Lodge",
+    "property_type_Love hotel",
+    "property_type_Posada u hostería",
+    "property_type_Resort",
+    "property_type_Riad",
+    "property_type_Villa",
+    "region_Andalucía",
+    "region_Aragón",
+    "region_Canary Islands",
+    "region_Cantabria",
+    "region_Castilla y León",
+    "region_Castilla-La Mancha",
+    "region_Cataluña",
+    "region_Ceuta",
+    "region_Comunidad Foral de Navarra",
+    "region_Comunidad Valenciana",
+    "region_Comunidad de Madrid",
+    "region_Extremadura",
+    "region_Galicia",
+    "region_Islas Baleares",
+    "region_La Rioja",
+    "region_Melilla",
+    "region_País Vasco",
+    "region_Principado de Asturias",
+    "region_Región de Murcia"
+  ],
+  "isolation_forest": {
+    "params": {
+      "n_estimators": 300,
+      "contamination": 0.05,
+      "random_state": 42,
+      "n_jobs": -1
+    },
+    "n_anomalies": 4611,
+    "fit_time_s": 0.99
+  },
+  "local_outlier_factor": {
+    "params": {
+      "n_neighbors": 30,
+      "contamination": 0.05,
+      "n_jobs": -1
+    },
+    "n_anomalies": 4611,
+    "fit_time_full_dataset_s": 3.89
+  }
+}

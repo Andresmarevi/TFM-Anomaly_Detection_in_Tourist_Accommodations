@@ -1,0 +1,204 @@
+2026-08-25 10:27:52,389 [INFO] ==================================================
+2026-08-25 10:27:52,390 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-25 10:27:52,390 [INFO] ==================================================
+2026-08-25 10:52:09,110 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (1456.71 segundos)
+
+2026-08-25 10:52:09,115 [INFO] ==================================================
+2026-08-25 10:52:09,116 [INFO] INICIANDO FASE: 2/2 Procesamiento, Entrenamiento y Validación ML
+2026-08-25 10:52:09,116 [INFO] ==================================================
+2026-08-25 10:52:48,873 [ERROR] Error crítico en la fase: 2/2 Procesamiento, Entrenamiento y Validación ML
+2026-08-25 10:52:48,875 [CRITICAL] El pipeline se detuvo debido a un fallo: Fallo en la fase: 2/2 Procesamiento, Entrenamiento y Validación ML
+2026-08-25 12:43:07,080 [INFO] ==================================================
+2026-08-25 12:43:07,081 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-25 12:43:07,082 [INFO] Directorio de trabajo: C:\Users\U000000\OneDrive - INSTITUTO NACIONAL DE ESTADÍSTICA\Documentos\Trabajo\Proyectos\TFM\Código\6. Automated pipeline\scraper
+2026-08-25 12:43:07,082 [INFO] ==================================================
+2026-08-25 12:54:54,639 [ERROR] Error en la fase: 1/2 Extracción y Scraping de Booking
+2026-08-25 12:54:54,643 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 1/2 Extracción y Scraping de Booking
+2026-08-25 13:00:41,716 [INFO] ==================================================
+2026-08-25 13:00:41,716 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-25 13:00:41,717 [INFO] Directorio de trabajo: C:\Users\U000000\OneDrive - INSTITUTO NACIONAL DE ESTADÍSTICA\Documentos\Trabajo\Proyectos\TFM\Código\6. Automated pipeline\scraper
+2026-08-25 13:00:41,717 [INFO] ==================================================
+2026-08-25 13:25:59,010 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (1517.29 segundos)
+
+2026-08-25 13:25:59,015 [INFO] ==================================================
+2026-08-25 13:25:59,015 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-25 13:25:59,016 [INFO] Directorio de trabajo: C:\Users\U000000\OneDrive - INSTITUTO NACIONAL DE ESTADÍSTICA\Documentos\Trabajo\Proyectos\TFM\Código\6. Automated pipeline\pipeline
+2026-08-25 13:25:59,016 [INFO] ==================================================
+2026-08-25 13:37:18,047 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (679.03 segundos)
+
+2026-08-25 13:37:18,050 [INFO] ==================================================
+2026-08-25 13:37:18,050 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-08-25 13:37:18,050 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-08-25 13:37:18,050 [INFO] ==================================================
+2026-08-26 09:11:41,401 [INFO] ==================================================
+2026-08-26 09:11:41,403 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-26 09:11:41,403 [INFO] Directorio de trabajo: C:\Users\U000000\OneDrive - INSTITUTO NACIONAL DE ESTADÍSTICA\Documentos\Trabajo\Proyectos\TFM\Código\6. Automated pipeline\scraper
+2026-08-26 09:11:41,403 [INFO] ==================================================
+2026-08-26 09:37:08,874 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (1527.46 segundos)
+
+2026-08-26 09:37:08,878 [INFO] ==================================================
+2026-08-26 09:37:08,878 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-26 09:37:08,879 [INFO] Directorio de trabajo: C:\Users\U000000\OneDrive - INSTITUTO NACIONAL DE ESTADÍSTICA\Documentos\Trabajo\Proyectos\TFM\Código\6. Automated pipeline\pipeline
+2026-08-26 09:37:08,880 [INFO] ==================================================
+2026-08-26 09:48:25,449 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (676.57 segundos)
+
+2026-08-26 09:48:25,453 [INFO] ==================================================
+2026-08-26 09:48:25,453 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-08-26 09:48:25,454 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-08-26 09:48:25,454 [INFO] ==================================================
+2026-08-31 13:26:07,458 [INFO] ==================================================
+2026-08-31 13:26:07,458 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 13:26:07,458 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 13:26:07,458 [INFO] ==================================================
+2026-08-31 13:26:07,624 [ERROR] Error en la fase: 1/2 Extracción y Scraping de Booking
+2026-08-31 13:26:07,625 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 1/2 Extracción y Scraping de Booking
+2026-08-31 13:29:22,566 [INFO] ==================================================
+2026-08-31 13:29:22,566 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 13:29:22,566 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 13:29:22,566 [INFO] ==================================================
+2026-08-31 14:27:14,569 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (3472.00 segundos)
+
+2026-08-31 14:27:14,570 [INFO] ==================================================
+2026-08-31 14:27:14,570 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 14:27:14,570 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-08-31 14:27:14,570 [INFO] ==================================================
+2026-08-31 14:27:16,028 [ERROR] Error en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 14:27:16,029 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 14:27:16,149 [INFO] ==================================================
+2026-08-31 14:27:16,149 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 14:27:16,149 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 14:27:16,149 [INFO] ==================================================
+2026-08-31 15:40:51,899 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (4415.75 segundos)
+
+2026-08-31 15:40:51,905 [INFO] ==================================================
+2026-08-31 15:40:51,905 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 15:40:51,906 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-08-31 15:40:51,907 [INFO] ==================================================
+2026-08-31 15:40:53,296 [ERROR] Error en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 15:40:53,296 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 17:24:48,126 [INFO] ==================================================
+2026-08-31 17:24:48,126 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 17:24:48,126 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 17:24:48,126 [INFO] ==================================================
+2026-08-31 17:36:57,400 [INFO] ==================================================
+2026-08-31 17:36:57,400 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 17:36:57,400 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 17:36:57,400 [INFO] ==================================================
+2026-08-31 17:37:25,255 [INFO] ==================================================
+2026-08-31 17:37:25,255 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 17:37:25,255 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 17:37:25,255 [INFO] ==================================================
+2026-08-31 17:51:37,319 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (852.06 segundos)
+
+2026-08-31 17:51:37,319 [INFO] ==================================================
+2026-08-31 17:51:37,319 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 17:51:37,319 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-08-31 17:51:37,319 [INFO] ==================================================
+2026-08-31 17:51:52,565 [ERROR] Error en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 17:51:52,565 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 18:24:20,799 [INFO] ==================================================
+2026-08-31 18:24:20,800 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 18:24:20,800 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 18:24:20,800 [INFO] ==================================================
+2026-08-31 18:25:29,700 [INFO] ==================================================
+2026-08-31 18:25:29,701 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-08-31 18:25:29,701 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-08-31 18:25:29,701 [INFO] ==================================================
+2026-08-31 18:38:43,181 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (793.48 segundos)
+
+2026-08-31 18:38:43,181 [INFO] ==================================================
+2026-08-31 18:38:43,181 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-08-31 18:38:43,181 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-08-31 18:38:43,181 [INFO] ==================================================
+2026-08-31 18:40:50,078 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (126.90 segundos)
+
+2026-08-31 18:40:50,078 [INFO] ==================================================
+2026-08-31 18:40:50,078 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-08-31 18:40:50,078 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-08-31 18:40:50,078 [INFO] ==================================================
+2026-09-04 10:46:34,996 [INFO] ==================================================
+2026-09-04 10:46:34,996 [INFO] INICIANDO FASE: 1/3 Extracción y Scraping de Booking
+2026-09-04 10:46:34,997 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-04 10:46:34,997 [INFO] ==================================================
+2026-09-04 11:06:35,229 [INFO] COMPLETADO CON ÉXITO: 1/3 Extracción y Scraping de Booking (1200.23 segundos)
+
+2026-09-04 11:06:35,229 [INFO] ==================================================
+2026-09-04 11:06:35,229 [INFO] INICIANDO FASE: 2/3 Procesamiento, Modelado y Validación ML
+2026-09-04 11:06:35,229 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-09-04 11:06:35,229 [INFO] ==================================================
+2026-09-04 11:08:35,914 [INFO] COMPLETADO CON ÉXITO: 2/3 Procesamiento, Modelado y Validación ML (120.68 segundos)
+
+2026-09-04 11:08:35,915 [INFO] ==================================================
+2026-09-04 11:08:35,915 [INFO] INICIANDO FASE: 3/3 Generación de Reportes HTML
+2026-09-04 11:08:35,915 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\notebooks
+2026-09-04 11:08:35,915 [INFO] ==================================================
+2026-09-04 11:08:35,960 [ERROR] Error en la fase: 3/3 Generación de Reportes HTML
+2026-09-04 11:08:35,960 [CRITICAL] El flujo global se detuvo: Fallo en la fase: 3/3 Generación de Reportes HTML
+2026-09-07 09:31:16,506 [INFO] ==================================================
+2026-09-07 09:31:16,506 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-09-07 09:31:16,507 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-07 09:31:16,507 [INFO] ==================================================
+2026-09-07 09:52:48,689 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (1292.18 segundos)
+
+2026-09-07 09:52:48,689 [INFO] ==================================================
+2026-09-07 09:52:48,690 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-09-07 09:52:48,690 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-09-07 09:52:48,690 [INFO] ==================================================
+2026-09-07 10:36:40,847 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (2632.16 segundos)
+
+2026-09-07 10:36:40,848 [INFO] ==================================================
+2026-09-07 10:36:40,848 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-09-07 10:36:40,848 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-09-07 10:36:40,848 [INFO] ==================================================
+2026-09-10 18:50:26,927 [INFO] ==================================================
+2026-09-10 18:50:26,928 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-09-10 18:50:26,928 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-10 18:50:26,928 [INFO] ==================================================
+2026-09-10 19:41:47,940 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (3081.01 segundos)
+
+2026-09-10 19:41:47,942 [INFO] ==================================================
+2026-09-10 19:41:47,943 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-09-10 19:41:47,944 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-09-10 19:41:47,945 [INFO] ==================================================
+2026-09-10 20:06:03,149 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (1455.20 segundos)
+
+2026-09-10 20:06:03,151 [INFO] ==================================================
+2026-09-10 20:06:03,151 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-09-10 20:06:03,152 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-09-10 20:06:03,153 [INFO] ==================================================
+2026-09-11 12:56:17,470 [INFO] ==================================================
+2026-09-11 12:56:17,472 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-09-11 12:56:17,472 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-11 12:56:17,472 [INFO] ==================================================
+2026-09-11 17:17:23,473 [INFO] ==================================================
+2026-09-11 17:17:23,473 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-09-11 17:17:23,473 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-11 17:17:23,473 [INFO] ==================================================
+2026-09-11 17:59:19,719 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (2516.25 segundos)
+
+2026-09-11 17:59:19,719 [INFO] ==================================================
+2026-09-11 17:59:19,719 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-09-11 17:59:19,719 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-09-11 17:59:19,719 [INFO] ==================================================
+2026-09-11 18:08:07,536 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (527.82 segundos)
+
+2026-09-11 18:08:07,537 [INFO] ==================================================
+2026-09-11 18:08:07,537 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-09-11 18:08:07,537 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-09-11 18:08:07,537 [INFO] ==================================================
+2026-09-13 12:07:02,760 [INFO] ==================================================
+2026-09-13 12:07:02,760 [INFO] INICIANDO FASE: 1/2 Extracción y Scraping de Booking
+2026-09-13 12:07:02,760 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\scraper
+2026-09-13 12:07:02,760 [INFO] ==================================================
+2026-09-13 12:24:36,914 [INFO] COMPLETADO CON ÉXITO: 1/2 Extracción y Scraping de Booking (1054.15 segundos)
+
+2026-09-13 12:24:36,914 [INFO] ==================================================
+2026-09-13 12:24:36,914 [INFO] INICIANDO FASE: 2/2 Procesamiento, Modelado y Validación ML
+2026-09-13 12:24:36,914 [INFO] Directorio de trabajo: C:\Users\Andres\Documents\University\Máster\Cloud, Datos y Gestión TI\Asignaturas\TFM\Code\6. Automated pipeline\pipeline
+2026-09-13 12:24:36,914 [INFO] ==================================================
+2026-09-13 12:29:09,717 [INFO] COMPLETADO CON ÉXITO: 2/2 Procesamiento, Modelado y Validación ML (272.80 segundos)
+
+2026-09-13 12:29:09,717 [INFO] ==================================================
+2026-09-13 12:29:09,717 [INFO] SISTEMA AUTOMATIZADO COMPLETADO CON ÉXITO
+2026-09-13 12:29:09,717 [INFO] Datos y resultados actualizados listos para el Dashboard.
+2026-09-13 12:29:09,717 [INFO] ==================================================
